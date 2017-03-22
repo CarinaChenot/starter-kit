@@ -9,17 +9,17 @@
   "author": "Carina Chenot",
   "license": "MIT",
   "devDependencies": {
+    "babel-preset-es2015": "^6.24.0",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^3.1.1",
-    "gulp-clean-css": "^3.0.3",
-    "gulp-concat": "^2.6.1",
+    "gulp-babel": "^6.1.2",
     "gulp-connect": "^5.0.0",
+    "gulp-minify": "0.0.15",
     "gulp-notify": "^3.0.0",
     "gulp-plumber": "^1.1.0",
     "gulp-rename": "^1.2.2",
     "gulp-sass": "^3.1.0",
     "gulp-sourcemaps": "^2.4.1",
-    "gulp-uglify": "^2.0.1",
     "install": "^0.8.7",
     "npm": "^4.3.0"
   }

@@ -5,7 +5,3 @@
 
 # Dependency directories
 node_modules/
-
-# Dist files
-src/css
-src/main.min.js
